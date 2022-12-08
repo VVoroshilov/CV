@@ -1,2 +1,2 @@
-# CV
-## CV is in the PDF file
+# Resume
+## Resume in Russian and English
